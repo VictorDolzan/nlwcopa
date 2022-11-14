@@ -19,7 +19,7 @@
     "expo-web-browser": "~11.0.0",
     "install": "^0.13.0",
     "native-base": "^3.4.20",
-    "npx": "^10.2.2",
+    "npx": "^3.0.0",
     "phosphor-react-native": "^1.1.2",
     "react": "18.0.0",
     "react-native": "0.69.6",
