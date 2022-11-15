@@ -3,7 +3,7 @@ import { useFonts, Roboto_400Regular, Roboto_500Medium, Roboto_700Bold } from '@
 import { Loading } from "./src/components/Loading";
 import { THEME } from './src/styles/theme';
 import { AuthContextProvider } from "./src/contexts/AuthContext";
-import {Routes} from "./src/routes";
+import {Routes} from "./src/routes/index";
 
 export default function App() {
     const [fontsLoaded] = useFonts({ Roboto_400Regular, Roboto_500Medium, Roboto_700Bold })
